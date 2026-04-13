@@ -16,6 +16,9 @@ LoginTest.java – contains JUnit tests to verify the functionality of the Login
 
 ---
 
+## Purpose
+The purpose of this project is to demonstrate understanding of object orientated programming, User input handling, and basic software testing in java
+
 ## Features of the application include:
 Username validation (must contain an underscore and be no more than 5 characters)
 Password complexity validation (minimum 8 characters, including a capital letter, number, and special character)
